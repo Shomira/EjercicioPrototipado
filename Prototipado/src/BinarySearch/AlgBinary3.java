@@ -1,4 +1,4 @@
-package prototipado;
+package BinarySearch;
 
 import java.util.concurrent.TimeUnit;
 
