@@ -1,4 +1,4 @@
-package binaryS;
+package binarysearch;
 
 import java.util.concurrent.TimeUnit;
 
